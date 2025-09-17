@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm AYAN</h1>
+# AYAN
 
 <p align="center">
-  <img src="https://tenor.com/or9tSsL46L9.gif" width="220" alt="Profile GIF">
+  <img src="https://media1.tenor.com/m/pnI3fM6WeusAAAAd/shorekeeper-piano.gif" width="220" alt="Profile GIF">
 </p>
 
 ---
@@ -24,6 +24,9 @@
 ![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnx6x&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnx6x&layout=compact&theme=dark)
 
+---
+
+*Code with logic, create with heart.*
 ---
 
 *Code with logic, create with heart.*
