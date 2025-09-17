@@ -1,4 +1,4 @@
-# AYAN
+# HI IM AYAN
 
 <img src="https://tenor.com/or9tSsL46L9.gif" width="220" alt="Profile GIF" />
 
@@ -27,6 +27,9 @@
 ## Connect  
 [Instagram](https://instagram.com/aynx6x) · [Twitter](https://twitter.com/aynx6x) · [Email](mailto:your@email.com)  
 
+---
+
+*"Code with logic, create with heart."*
 ---
 
 *"Code with logic, create with heart."*
