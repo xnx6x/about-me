@@ -1,6 +1,6 @@
 # AYAN
 
-<img src="https://tenor.com/view/shorekeeper-piano-wuthering-waves-wuwa-gif-11993709766822492907" width="220" alt="Profile GIF" />
+<img src="https://tenor.com/or9tSsL46L9.gif" width="220" alt="Profile GIF" />
 
 ---
 
