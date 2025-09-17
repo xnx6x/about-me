@@ -1,6 +1,8 @@
-# HI IM AYAN
+<h1 align="center">Hi, I'm AYAN</h1>
 
-<img src="https://tenor.com/or9tSsL46L9.gif" width="220" alt="Profile GIF" />
+<p align="center">
+  <img src="https://tenor.com/or9tSsL46L9.gif" width="220" alt="Profile GIF">
+</p>
 
 ---
 
@@ -12,24 +14,16 @@
 ---
 
 ## Skills  
-- Languages: Python · JavaScript · C++  
-- Frameworks: React · Node.js · Django  
-- Tools: Git · Docker · Linux  
+- **Languages:** `Python` · `JavaScript` · `C++`  
+- **Frameworks:** `React` · `Node.js` · `Django`  
+- **Tools:** `Git` · `Docker` · `Linux`  
 
 ---
 
 ## GitHub Stats  
 ![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnx6x&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnx6x&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnx6x&layout=compact&theme=dark)
 
 ---
 
-## Connect  
-[Instagram](https://instagram.com/aynx6x) · [Twitter](https://twitter.com/aynx6x) · [Email](mailto:your@email.com)  
-
----
-
-*"Code with logic, create with heart."*
----
-
-*"Code with logic, create with heart."*
+*Code with logic, create with heart.*
